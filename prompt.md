@@ -36,3 +36,23 @@ if going back towards hand the rope resets. the rope can be attached again and a
  - **1.**: joystick and screen moves at the same time.
  - **2.** first person doesn't works.
 and set the game to first person, since the actual game is also set to first person, and also don't keep the map simple. make it good as possible.
+## Instruction.md 2
+tell the user first, if they want the objects to be autocreated or they wanna create by theirself. since attributes isn't available on mobilestudio's, instead make a system where the dev only have to name the parts to make the things work. and also tell them, what they have to name the each part and what the each part will do after renaming them. and again, do not add any comment lines, or any instructions to the script. because it makes the script look bad.
+## Pressure hand use
+while pushing a object, it shows a meter bar, and in there, there is 3 levels. one: low pressure, green meter, two: medium pressure, yellow meter, three: high pressure, red meter. each meters pushes the objects as their meters.
+## Conductive hand use
+so, there are three objects for this hand.
+- **1.** fire object
+- **2.** cold object
+- **3.** leaf object
+lemme explain what does each objects do.
+## explanation
+so the fire object actually enables the fire on conductive hand for a few seconds and it can burn any burnable objects.
+and the cold objects is for it can freeze any freezable objects and can be break through pressure hand. and the leaf object is unknown and not found yet. please ask the user usage of it.
+## Instruction.md 3
+make every object in the experience voxel Minecraft type and actually make the objects visible in the front camera not like clicking on the lmb and appears directly from nowhere. make sure the players are able to see the grabpack as in the image shown. and tell the user if they have a grabpack, objects glb to work through so you can add it through the game.
+## Questions
+ask the questions first wroted above.
+## UI's allocation
+**Left Hand button**: Right side beside the right hand button
+**Right Hand button**: Right side 10% top and 5% left.
