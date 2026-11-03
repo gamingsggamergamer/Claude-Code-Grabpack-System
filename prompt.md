@@ -31,4 +31,8 @@ and do not make the game look like **AI SLOP**.
 like do not enter comment lines or either don't name anything like so gramatic so people can identify the game as ai slop.
 and also provide the user it's game icon and thumbnails to publish, if the skill isn't available skip this part. and if the skill is, available. then make the icon and thumbnails cartoony type and actually showcases the grabpack.
 also make the objects editable so the user's can edit in the future and always listen to the user closely and try your best skill. and make sure the hand doesn't bypass through walls, the rope must attach to walls smoothly, not like
-if going back towards hand the rope resets. the rope can be attached again and again until the player doesn't recalls the hand. after recalling the hand, the rope must come like 1 by 1 like how the player attached. the game physics are main.
+if going back towards hand the rope resets. the rope can be attached again and again until the player doesn't recalls the hand. after recalling the hand, the rope must come like 1 by 1 like how the player attached. the game physics are main. and don't keep the grabpack simple, try your best to make it good as possible, the model, the animations everything. and be honest if you can't see the images so the user can shortly send the images to you but you have to tell him first that you can't see the images. and if your adding the custom joystick and jump button. keep eye on these problems
+## Problems
+ - **1.**: joystick and screen moves at the same time.
+ - **2.** first person doesn't works.
+and set the game to first person, since the actual game is also set to first person, and also don't keep the map simple. make it good as possible.
